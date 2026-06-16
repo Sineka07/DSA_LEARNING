@@ -3,9 +3,6 @@
 using namespace std;
 class Solution {
   public:
-    /*Function to count even and odd elements in the array
-     * arr : Array with its elements
-     */
     pair<int, int> countOddEven(vector<int> &arr) {
         // your code here
         int  n=arr.size();
@@ -22,6 +19,5 @@ class Solution {
             }
         }
         return {cnt1,cnt2};
-        
     }
 };
