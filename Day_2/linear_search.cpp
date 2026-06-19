@@ -1,3 +1,5 @@
+//Time complexity: O(n)
+//space complexity: O(n)
 #include <bits/stdc++.h>
 #include <vector>
 using namespace std;
