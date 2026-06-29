@@ -1,5 +1,10 @@
 //Time Complexity: O(n*m) where n is the number of queries and m is the size of the array
 //Space Complexity: O(1)
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 class Solution {
     public ArrayList<Integer> rangeSumQueries(int[] arr, int[][] queries) {
         // code here

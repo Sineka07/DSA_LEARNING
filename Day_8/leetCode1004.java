@@ -1,3 +1,6 @@
+//Time Complexity: O(n) where n is the size of the array    
+//Space Complexity: O(1)
+import java.util.*;
 class Solution {
     public int longestOnes(int[] nums, int k) {
         int n=nums.length;

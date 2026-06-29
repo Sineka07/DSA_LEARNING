@@ -1,3 +1,5 @@
+//Time complexity: O(n)
+//space complexity: O(1)
 class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
