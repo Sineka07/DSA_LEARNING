@@ -13,7 +13,6 @@ class Node {
     }
 };
 
-
 class VerticalOrder {
     void solve(Node* root,vector<vector<int>>& finalOutput){
         if(root == nullptr) return;
