@@ -1,7 +1,7 @@
 package Day_22;
 
 import java.util.*;
-//Definition for Node
+
 class Node {
     int data;
     Node left, right;
